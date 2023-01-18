@@ -1,11 +1,22 @@
 body{
     background-color: rgb(166, 207, 207);
     padding: 0;
+    margin: 0;
+    font-size: 16px;
+
+}
+header{
+    background-color: aquamarine;
+}
+main{
+    margin: 50px;
 }
 h1{
     justify-content: center;
     color: blue;
-    text-decoration: underline
+    width: 80%;
+    margin: 50px auto;
+    justify-items: center;
 }
 p{
     
@@ -15,4 +26,8 @@ p{
 }
 h2{
     color: rgb(100, 100, 192);
+    text-decoration: underline;
+}
+footer{
+text-decoration: underline;
 }
