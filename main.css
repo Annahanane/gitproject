@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(166, 207, 207);
+    padding: 0;
+}
+h1{
+    justify-content: center;
+    color: blue;
+    text-decoration: underline
+}
+p{
+    
+    font-family:'Times New Roman', Times, serif;
+    margin: 50px;;
+
+}
+h2{
+    color: rgb(100, 100, 192);
+}
